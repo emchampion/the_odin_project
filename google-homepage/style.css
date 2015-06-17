@@ -1,0 +1,14 @@
+/* css */
+body {
+  font-family: arial;
+}
+
+div {
+  display: block;
+}
+
+#logo{
+  padding-top: 112px;
+  width: 269px;
+  height: 95px;
+}
